@@ -1,0 +1,29 @@
+{
+  "name": "Reudx_Muti_Reducer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brian1993/Reudx_Muti_Reducer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brian1993/Reudx_Muti_Reducer/issues"
+  },
+  "homepage": "https://github.com/Brian1993/Reudx_Muti_Reducer#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1",
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
+  }
+}
